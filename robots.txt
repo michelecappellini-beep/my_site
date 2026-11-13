@@ -1,5 +1,4 @@
-Plaintext
 User-agent: *
 Allow: /
 
-Sitemap: https://www.michelecappellini.it/sitemap.xml
+Sitemap: https://michelecappellini.it/sitemap.xml
